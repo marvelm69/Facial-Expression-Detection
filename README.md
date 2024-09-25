@@ -91,7 +91,7 @@ The results demonstrate that convolutional models are better suited for complex,
 A 10-minute real-time simulation was conducted using the best-performing MobileNet model to evaluate the friendliness of a public service officer at Universitas Bina Nusantara’s promotion team. The officer’s facial expressions were recorded and analyzed, and the results were saved into a CSV file that tracked facial expressions over time.
 
 This simulation showcases the system's potential to provide real-time feedback on public service officers' interactions with the public, offering an efficient way to evaluate service quality.
-![WhatsApp Image 2024-09-18 at 15 58 51_c422222a](https://github.com/user-attachments/assets/cfa4d55a-d36d-4a83-9cc5-612d52247d81)
+![WhatsApp Image 2024-09-25 at 20 12 44_e1cdb5f1](https://github.com/user-attachments/assets/9e912fc3-cb00-42ff-a8c4-61b8adda8913)
 
 ## Conclusion
 
